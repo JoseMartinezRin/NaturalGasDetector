@@ -25,21 +25,21 @@ a {
   color: var(--text-color); /*color del texto usando variables*/
 }
 
-.horizontalPading {
+.horizontalPadding {
   padding-left: 25px;
   padding-right: 25px;
 }
-.verticalPading {
+.verticalPadding {
   padding-top: 25px;
   padding-bottom: 25px;
 }
 
 @media (min-width: 950px) {
-  .horizontalPading {
+  .horizontalPadding {
     padding-left: 70px;
     padding-right: 70px;
   }
-  .verticalPading {
+  .verticalPadding {
     padding-top: 70px;
     padding-bottom: 70px;
   }
